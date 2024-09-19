@@ -1,0 +1,9 @@
+{
+    "mysql": {
+        "connectionLimit": 5,
+        "host": "194.56.225.14",
+        "user": "u26_MSEsqzy2x7",
+        "password": "YwMVgNV=bPo9i4wniyBhG6p+",
+        "database": "s26_kotatuarp"
+    }
+}
